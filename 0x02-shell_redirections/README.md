@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, World"
+echo 'My first readme' > README.md
